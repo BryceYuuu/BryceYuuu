@@ -14,4 +14,4 @@ Independent AI product builder and tech content creator. Building open-source to
 
 **Connect**
 
-[YouTube (野生Bryce)](https://www.youtube.com/@humanpatch3) · [X (@humanpatch_)](https://x.com/humanpatch_) · [GitHub](https://github.com/BryceYuuu)
+[YouTube (野生Bryce)](https://www.youtube.com/@humanpatch3) · [X (@humanpatch_)](https://x.com/humanpatch_) · [Threads (@bryceyzy)](https://www.threads.com/@bryceyzy) · [Dev.to](https://dev.to/humanpatch) · [GitHub](https://github.com/BryceYuuu)
